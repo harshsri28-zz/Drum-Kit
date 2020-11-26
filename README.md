@@ -1,3 +1,3 @@
 # Drum-Kit
 
-I created by using javascript and html and css.
+This is  created by javascript
